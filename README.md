@@ -6,7 +6,8 @@
 📚 In my free time, I enjoy baking, reading books, and listening to music.  
 🌐 I can communicate in both English and Japanese.  
 
-📫 Contact: 23521131@gm.uit.edu.vn  
+📫 Contact: 23521131@gm.uit.edu.vn 
+
 ---
 
 ## 💻 Tech Stack
@@ -20,6 +21,7 @@
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ---
 
